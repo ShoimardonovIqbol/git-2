@@ -1,5 +1,5 @@
 # WHAT IS GITHUB ??
-![](./Без%20названия.png)
+![img](https://github.com/user-attachments/assets/4195391f-fc52-4eb8-b48a-cce0ecca82ad)
 - Millions of developers and businesses call GitHub home. 
 - Whether you're scaling your development process or just learning. 
 - How to code, GitHub is where you belong
